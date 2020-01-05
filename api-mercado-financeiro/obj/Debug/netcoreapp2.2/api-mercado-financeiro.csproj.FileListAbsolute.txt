@@ -1,0 +1,14 @@
+E:\Git\api-mercado-financeiro\api-mercado-financeiro\bin\Debug\netcoreapp2.2\api-mercado-financeiro.deps.json
+E:\Git\api-mercado-financeiro\api-mercado-financeiro\bin\Debug\netcoreapp2.2\api-mercado-financeiro.runtimeconfig.json
+E:\Git\api-mercado-financeiro\api-mercado-financeiro\bin\Debug\netcoreapp2.2\api-mercado-financeiro.runtimeconfig.dev.json
+E:\Git\api-mercado-financeiro\api-mercado-financeiro\bin\Debug\netcoreapp2.2\api-mercado-financeiro.dll
+E:\Git\api-mercado-financeiro\api-mercado-financeiro\bin\Debug\netcoreapp2.2\api-mercado-financeiro.pdb
+E:\Git\api-mercado-financeiro\api-mercado-financeiro\obj\Debug\netcoreapp2.2\api-mercado-financeiro.csprojAssemblyReference.cache
+E:\Git\api-mercado-financeiro\api-mercado-financeiro\obj\Debug\netcoreapp2.2\api-mercado-financeiro.csproj.CoreCompileInputs.cache
+E:\Git\api-mercado-financeiro\api-mercado-financeiro\obj\Debug\netcoreapp2.2\api-mercado-financeiro.RazorAssemblyInfo.cache
+E:\Git\api-mercado-financeiro\api-mercado-financeiro\obj\Debug\netcoreapp2.2\api-mercado-financeiro.RazorAssemblyInfo.cs
+E:\Git\api-mercado-financeiro\api-mercado-financeiro\obj\Debug\netcoreapp2.2\api-mercado-financeiro.AssemblyInfoInputs.cache
+E:\Git\api-mercado-financeiro\api-mercado-financeiro\obj\Debug\netcoreapp2.2\api-mercado-financeiro.AssemblyInfo.cs
+E:\Git\api-mercado-financeiro\api-mercado-financeiro\obj\Debug\netcoreapp2.2\api-mercado-financeiro.RazorTargetAssemblyInfo.cache
+E:\Git\api-mercado-financeiro\api-mercado-financeiro\obj\Debug\netcoreapp2.2\api-mercado-financeiro.dll
+E:\Git\api-mercado-financeiro\api-mercado-financeiro\obj\Debug\netcoreapp2.2\api-mercado-financeiro.pdb
