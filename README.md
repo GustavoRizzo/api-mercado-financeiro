@@ -1,2 +1,6 @@
 # api-mercado-financeiro
-API em dotnet Core 3.1 que provem métodos relacionados a mercado fianceiro
+API em dotnet Core 2.2 que provem métodos relacionados a mercado fianceiro
+
+dotnet restore
+dotnet run
+http://localhost:5020/
