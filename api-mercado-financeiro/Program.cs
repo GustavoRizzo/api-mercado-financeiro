@@ -7,6 +7,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+using System.Net;
 
 namespace api_mercado_financeiro
 {
@@ -19,6 +20,11 @@ namespace api_mercado_financeiro
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>();
+                .UseStartup<Startup>()
+                .ConfigureKestrel((context, options) =>
+                {
+                    options.Listen(IPAddress.Loopback, 5020);
+                })
+                ;
     }
 }
